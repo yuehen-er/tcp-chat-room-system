@@ -1,0 +1,47 @@
+# IDE 配置文件
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+*.swo
+*~
+
+# 编译输出
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 临时文件
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# 数据库文件
+*.db
+*.sqlite
+*.sqlite3
+
+# 日志文件
+*.log

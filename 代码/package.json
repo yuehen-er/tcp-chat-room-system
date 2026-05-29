@@ -1,0 +1,15 @@
+{
+  "name": "tcp-chat-room",
+  "version": "1.0.0",
+  "description": "基于TCP协议的多线程聊天室",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["chat", "websocket", "tcp"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}
